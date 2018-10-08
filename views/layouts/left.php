@@ -11,7 +11,8 @@ $menuItems = [
         'url' => '#',
         'items' => [
             ['label' => 'Кабинеты', 'icon' => 'circle-o', 'url' => ['/room']],
-            ['label' => 'Обрудование', 'icon' => 'circle-o', 'url' => ['/equipment']],
+            ['label' => 'Категории', 'icon' => 'circle-o', 'url' => ['/category']],
+            ['label' => 'Обрудование', 'icon' => 'circle-o', 'url' => ['/product']],
         ],
     ],
     ['label' => 'Разработка', 'options' => ['class' => 'header']],
